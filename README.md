@@ -1,4 +1,4 @@
-Task realized during Front-End Developer Bootcamp
+#Task performed during Front-End Developer Bootcamp
 
 Przygotuj przycisk z atrybutem id=”searchKitty”. Spraw aby po kliknięciu w niego wysłane zostało zapytanie typu GET pod API dostępne pod wskazanym adresem:
 https://api.thecatapi.com/v1/images/search 
